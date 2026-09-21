@@ -1,0 +1,8 @@
+{
+  "appId": "ir.araztejarat.app",
+  "appName": "آراز تجارت ارس",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
